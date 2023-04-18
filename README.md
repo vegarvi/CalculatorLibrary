@@ -1,2 +1,2 @@
 # CalculatorLibrary
-Tutorial
+CalculatorTutorial
