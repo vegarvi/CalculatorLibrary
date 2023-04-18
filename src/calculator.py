@@ -19,5 +19,5 @@ def divide(a, b):
     return a / b
 
 
-def add(a, b, c):
+def add_three(a, b, c):
     return a + b + c
